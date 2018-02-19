@@ -1,2 +1,4 @@
 # sys-usage-threads
-Thread using Threading
+
+- Threads using Threading
+- Printing memory usage, using psutil library
